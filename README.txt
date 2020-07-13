@@ -1,0 +1,2 @@
+This is a python program that is a task manager program, the functions of the program is to manage and store the login information for the admin and the users of the program as well as store and manage the task of the user and the admin of the program. 
+The program is able to add tasks and users, the program has a login system that checks though the user text file to see if you are registered to use the program and the program has a menu system to make he program easier to use
